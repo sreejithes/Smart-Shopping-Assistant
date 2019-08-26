@@ -1,2 +1,2 @@
 # Smart-Shopping-Assistant
-gdfhdfhgfhjgf
+Shopping is always a trend,it is anever-ending activity. Most of the times customer fail to understand the actual quality and better alternatives. Considering the future, most of the consumer shops will be automated just like Amazon Go. So human interactions will be minimal and there would be no option for the customers to inquire about the products. This creates a need for a solution to solve the above scenario.
