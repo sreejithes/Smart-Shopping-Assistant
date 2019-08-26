@@ -13,3 +13,5 @@ an unfamiliar product normal customers won’t choose them over the usual ones. 
 Application aims to fill this gap in communication between customers and producers.
 Our Application also provides information about the near shops with the lowest selling
 price.
+
+# System Architecture
