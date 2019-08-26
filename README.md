@@ -13,6 +13,7 @@ The main objective is to bring transparency in shopping field by allowing the cu
 
 # code
 [code of model](https://github.com/sreejithes/Smart-Shopping-Assistant/blob/master/train.py.py)
+
 [Application](https://drive.google.com/open?id=1lIbjVfmGMAQ4eqRg31VVbufkN9-ikXj3)
 
 # Result
