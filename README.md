@@ -15,3 +15,4 @@ Our Application also provides information about the near shops with the lowest s
 price.
 
 # System Architecture
+<img src="system_architecture.png"/>
