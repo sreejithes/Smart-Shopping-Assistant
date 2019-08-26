@@ -12,7 +12,8 @@ The main objective is to bring transparency in shopping field by allowing the cu
 <img src="system_architecture.PNG"/>
 
 # code
-[code](https://github.com/sreejithes/Smart-Shopping-Assistant/blob/master/train.py.py)
+[code of model](https://github.com/sreejithes/Smart-Shopping-Assistant/blob/master/train.py.py)
+[Application](https://github.com/sreejithes/Smart-Shopping-Assistant/blob/master/train.py.py)
 
 # Result
 The screenshot of the developed mobile application is given below. The application successfully classifies the products with efficient accuracy and speed.
