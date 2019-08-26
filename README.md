@@ -11,9 +11,9 @@ The main objective is to bring transparency in shopping field by allowing the cu
 # System Architecture
 <img src="system_architecture.PNG"/>
 
-Result
+# Result
 The screenshot of the developed mobile application is given below. The application successfully classifies the products with efficient accuracy and speed
-
+<img src="app_test_image.JPG"/>
 
 # Conclusion
 The developed system reads the image of the product through the mobile app and the user can use this system without any prior experience as the user interface is user friendly. This application makes it easier for the customer to select quality products without any knowledge of that product or manufacturer. With the nearby location feature, the customer caneasily find the available locations of the product. The App also provides product reviews from 1000s of customers.
