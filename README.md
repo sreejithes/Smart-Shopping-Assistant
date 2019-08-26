@@ -6,13 +6,14 @@ The solution that we are proposing here is an Android Application that acts as a
 Such a System will ensure that the customers are aware of the product they wish to buy. Genuine reviews from thousands of other customers will conﬁrm the quality and usability of the product.
 
 # Objectives of the Work
-The main objective is to bring transparency in shopping field by allowing the customers
-to know about the alternatives and their effectiveness. The future shopping will be on
-Smart shops like Amazon go, where the human interactions are far less. So if there is
-an unfamiliar product normal customers won’t choose them over the usual ones. Our
-Application aims to fill this gap in communication between customers and producers.
-Our Application also provides information about the near shops with the lowest selling
-price.
+The main objective is to bring transparency in shopping field by allowing the customers to know about the alternatives and their effectiveness. The future shopping will be on Smart shops like Amazon go, where the human interactions are far less. So if there is an unfamiliar product normal customers won’t choose them over the usual ones. Our Application aims to fill this gap in communication between customers and producers.Our Application also provides information about the near shops with the lowest selling price.
 
 # System Architecture
 <img src="system_architecture.PNG"/>
+
+Result
+The screenshot of the developed mobile application is given below. The application successfully classifies the products with efficient accuracy and speed
+
+
+# Conclusion
+The developed system reads the image of the product through the mobile app and the user can use this system without any prior experience as the user interface is user friendly. This application makes it easier for the customer to select quality products without any knowledge of that product or manufacturer. With the nearby location feature, the customer caneasily find the available locations of the product. The App also provides product reviews from 1000s of customers.
